@@ -1,3 +1,35 @@
+# Tripify - A Travel Website
+Fully Responsive Website
+ 
+# Home Page
+
+![ca45ae682e2e7827e58b6a6dfa5997d77861134d](https://user-images.githubusercontent.com/95119784/229514441-17707eda-60d8-4751-a59e-0d67795ad026.jpg)
+
+![7e425db0d1f7e95ab33f273b014414cb8f966f38](https://user-images.githubusercontent.com/95119784/229514477-358465be-2d0b-4142-a4f8-8e5a5eabf589.jpg)
+
+![b771c71697ee121b16b2e26054c84f834d8e23d3](https://user-images.githubusercontent.com/95119784/229514503-83fb1d50-7428-41c3-8c65-75aefcbb4452.jpg)
+
+![3c68e89112703232ff7943995d1166b9e903139c](https://user-images.githubusercontent.com/95119784/229514657-ccde58a9-e96c-4e2c-b869-6e7d26d6997e.jpg)
+
+# About Us Page
+
+![a5b07840f73699c51b1933d795818e85f1ba20ad](https://user-images.githubusercontent.com/95119784/229514733-7b6240db-6c14-4309-981f-770443a43272.jpg)
+
+![92640d6eadb1dd203d2e9a6da79abc2874879066](https://user-images.githubusercontent.com/95119784/229514755-c8525b5e-e538-4a38-b3af-434d33b2692a.jpg)
+
+# Services Page
+
+![b5e6dbedddeaf0a68840eb7c2436d62366948fb0](https://user-images.githubusercontent.com/95119784/229514978-4117df10-64c4-4f2b-bd08-be024dc54a88.jpg)
+
+![3c68e89112703232ff7943995d1166b9e903139c](https://user-images.githubusercontent.com/95119784/229515001-ce686ba2-c9c6-46fa-9678-7b4db6805f0f.jpg)
+
+# Contact Us Page
+
+![1ab0fa15b554e1e045288d492ad0aa24ca4ac5a6](https://user-images.githubusercontent.com/95119784/229515101-7f2dc129-cd53-4f44-a72d-e05284f767ab.jpg)
+
+![a564511da4331cb6c2dd26192c10246b94affa64](https://user-images.githubusercontent.com/95119784/229515057-57423ac1-4fe8-4987-9760-f6ad3c2305ac.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
